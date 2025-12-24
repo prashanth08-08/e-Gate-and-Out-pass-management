@@ -1,0 +1,5 @@
+{
+  "name": "Hostel Pass Manager",
+  "description": "A digital gate pass and out pass management system for college hostels to streamline approvals.",
+  "requestFramePermissions": []
+}
